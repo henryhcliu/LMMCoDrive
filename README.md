@@ -24,8 +24,10 @@ The code in this repository accompanies the research paper and includes the foll
 To use the code in this repository, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/henryhcliu/LMMCoDrive.git`
-2. Install the necessary dependencies by `pip install -r requirements.txt`
-4. Run the main script by `python main_lmmcodrive.py` to see the implementation in action.
+2. Create a new Conda environment (`Python 3.8` is recommended) and activate it.
+3. Install the necessary dependencies by `pip install -r requirements.txt`
+4. Run the CARLA simulator in the Terminal using `./CarlaUE4.sh` in the corresponding CARLA folder to launch the server
+5. Run the main script by `python main_lmmcodrive.py` to see the implementation in action.
 
 ## Citation
 
