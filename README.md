@@ -4,6 +4,8 @@
 [![Version](https://img.shields.io/badge/Version-1.0-brightgreen)](https://github.com/henryhcliu/LMMCoDrive/releases/tag/v1.0)
 [![arXiv](https://img.shields.io/badge/arXiv-2409.11981-lightgrey)](https://arxiv.org/abs/2409.11981)
 
+**🎉 This paper has been accepted by IEEE/RSJ IROS 2025! The complete code will be released soon. Stay tuned!**
+
 This repository contains the code implementation for the paper titled **LMMCoDrive: Cooperative Driving with Large Multimodal Model** by Haichao Liu, Ruoyu Yao, Zhenmin Huang, Shaojie Shen, and Jun Ma.
 
 ## Abstract
