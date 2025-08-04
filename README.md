@@ -6,7 +6,7 @@
 
 **🎉 This paper has been accepted by IEEE/RSJ IROS 2025! The complete code will be released soon. Stay tuned!**
 
-This repository contains the code implementation for the paper titled **LMMCoDrive: Cooperative Driving with Large Multimodal Model** by Haichao Liu, Ruoyu Yao, Zhenmin Huang, Shaojie Shen, and Jun Ma.
+This repository contains the code implementation for the paper titled **[LMMCoDrive: Cooperative Driving with Large Multimodal Model](https://arxiv.org/abs/2409.11981)** by [Haichao Liu](https://henryhcliu.github.io), [Ruoyu Yao](https://ryyao98.github.io/), [Zhenmin Huang](https://scholar.google.com/citations?user=cSlIm2IAAAAJ&hl=en), [Shaojie Shen](https://ece.hkust.edu.hk/eeshaojie), and [Jun Ma](https://ece.hkust.edu.hk/junma).
 
 ## Abstract
 
